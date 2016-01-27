@@ -152,3 +152,17 @@ Reference:
 Trouble shooting:
 
 - [No plot window in matplotlib](http://stackoverflow.com/questions/2130913/no-plot-window-in-matplotlib)
+
+## Result ##
+
+### simulationWithoutDrug ###
+
+    simulationWithoutDrug(100, 1000, 0.1, 0.05, 100)
+
+![simpleVirus_simulation.png](simpleVirus_simulation.png)
+
+### simulationWithDrug ###
+
+    simulationWithDrug(100, 1000, 0.1, 0.05, {"guttagonol": False}, 0.005, 100)
+
+![resistantVirus_simulation.png](resistantVirus_simulation.png)
