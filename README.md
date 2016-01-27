@@ -24,7 +24,7 @@
 
 > "we’ll be looking at a detailed simulation of the spread of a virus within a person. "
 
-## Problem 1: Implementing a simple simulation (no drug treatment) ## 
+## Problem 1: Implementing a simple simulation (no drug treatment) ##
 
 - patient: does not take any drugs
 - viruses: do not acquire resistance
